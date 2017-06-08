@@ -1,0 +1,4 @@
+127.0.0.1 - - [07/Jun/2017:17:54:30 +0000] "GET /2017/06/07/hello-world/ HTTP/1.1" 200 18814 "http://neurosciencebooks.dev/2017/06/07/hello-world/" "WordPress/4.7.5; http://neurosciencebooks.dev"
+127.0.0.1 - - [07/Jun/2017:17:54:32 +0000] "POST /wp-cron.php?doing_wp_cron=1496858071.3885490894317626953125 HTTP/1.1" 200 31 "http://neurosciencebooks.dev/wp-cron.php?doing_wp_cron=1496858071.3885490894317626953125" "WordPress/4.7.5; http://neurosciencebooks.dev"
+127.0.0.1 - - [07/Jun/2017:17:57:15 +0000] "GET / HTTP/1.1" 200 17628 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+127.0.0.1 - - [07/Jun/2017:17:57:17 +0000] "GET /favicon.ico HTTP/1.1" 200 5 "http://neurosciencebooks.dev/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
